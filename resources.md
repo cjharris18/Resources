@@ -108,6 +108,11 @@ This is a great resource for learning more about Latex and its usage.
 ## Learning GitHub:
 Sometimes Git can be a big learning curve, below are our curated resources for mastering Git.
 
+### GitHub's Hello World Page:
+https://guides.github.com/activities/hello-world/
+
+A great start for those completely unfamiliar, a tradition of sorts is the "hello world", so of course this is in GitHub.
+
 ### Git Common Mistakes and Fixes:
 https://ohshitgit.com/
 
